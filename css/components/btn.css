@@ -1,0 +1,22 @@
+.btn-banner{background-color: #ff6f5e;
+		 	color: white;
+		 	border:#ff6f5e;
+		 	border-radius: 5px; 
+}
+
+#btn-insta a{
+	color: white;
+}
+
+#btn-insta a:hover{
+	color: black;
+}
+
+#btn-insta{background-color: #ff6f5e;
+		 	color: white;
+		 	border:#ff6f5e;
+		 	border-radius: 5px; 
+		 	margin-top: 0px;
+			margin-bottom: 15px;
+			margin: auto;
+}

@@ -1,0 +1,31 @@
+.content{
+	position: left;
+	padding: 10px;
+}
+
+.content h1{
+	text-align: center;
+	color: black;
+	
+
+}	
+.content p{font-family: 'Markazi+text', sans serif;}
+
+.content h2 {color: #63707e;
+	font-weight: lighter;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 30px;
+}
+.align-right{
+	float: right;
+}
+
+#btn-insta a{
+	color: white;
+}
+
+#btn-insta a:hover{
+	color: black;
+}
+
