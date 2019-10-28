@@ -22,9 +22,16 @@
 }
 
 .card p{
-	padding: 10px;
-	font-size: 20px;
+	padding: 20px;
 	font-weight: bolder;
+	margin: auto;
+	text-align: center;
+}
+.card img{
+	margin: auto;
+}
+.card button{
+	margin: auto;
 }
 
 .card-content {
