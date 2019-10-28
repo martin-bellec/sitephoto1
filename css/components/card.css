@@ -12,6 +12,7 @@
 	justify-content: space-between;
 	font-size: 20px;
 	font-family: 'Lato', sans serif;
+	flex-wrap: wrap;
 
 }
 
